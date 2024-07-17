@@ -34,6 +34,7 @@ const ItemList = ({ onEdit, onDelete, refresh }) => {
                             <p><strong>Place of Birth:</strong> {item.place_of_birth}</p>
                             <p><strong>Sex:</strong> {item.sex}</p>
                             <p><strong>Civil Status:</strong> {item.civil_status}</p>
+                            <p><strong>Spouse Surname:</strong> {item.spouse_surname}</p>
                             <p><strong>Spouse First Name:</strong> {item.spouse_first_name}</p>
                             <p><strong>Spouse Middle Name:</strong> {item.spouse_middle_name}</p>
                             <p><strong>Spouse Name Ext:</strong> {item.spouse_name_ext}</p>
